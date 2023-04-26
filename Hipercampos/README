@@ -1,0 +1,10 @@
+Para compilar digite "make"
+Para rodar o código digite "./tp1 -i teste_2 -o output_2"
+                            "./tp1 -i teste_4 -o output_4"
+                            "./tp1 -i teste_10 -o output_10"
+                            "./tp1 -i teste_100 -o output_100"
+                            "./tp1 -i teste_1000 -o output_1000"
+                            "./tp1 -i teste_50000 -o output_50000"
+                            "./tp1 -i teste_100000 -o output_100000"
+
+É necessário ter o gnuplot instalado.
