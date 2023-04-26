@@ -13,3 +13,9 @@ tempo, pois haveria interseção dos segmentos fora das âncoras. A figura mais 
 é possível ligar pelo menos 3 pontos, 8, 5 e 3, com interseção apenas nas âncoras. Seu programa
 deve computar o número máximo de pontos que é possível ligar com interseção de segmentos
 apenas nas âncoras
+
+Testes com 50000v e 100000v
+
+![teste_50000v](https://user-images.githubusercontent.com/103136574/234602418-d57350d1-5a88-4316-b8ed-7aa0eb46768a.png)
+
+![teste_100000v](https://user-images.githubusercontent.com/103136574/234602434-d856bec6-e977-45fb-8314-a4572af74939.png)
