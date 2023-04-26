@@ -2,8 +2,9 @@
 São dadas duas âncoras, dois pontos A = (XA, 0) e B = (XB , 0), formando um segmento
 horizontal, tal que 0 < XA < XB , e um conjunto P de N pontos da forma (X, Y ), tal que X > 0
 e Y > 0. A figura mais à esquerda exemplifica uma possível entrada.
-Neste trabalho vamos implementar um sistema que possui âncoras e pontos para criarmos um Hipercampo e localizar os pontos
+Neste trabalho vamos implementar um sistema que possui âncoras e pontos para criarmos um Hipercampo e localizar os pontos.
 
+![hipercampo](https://user-images.githubusercontent.com/103136574/234601962-a174383c-8627-4680-a8e6-d85e06fc03e2.png)
     
 Para "ligar"um ponto v ∈ P precisamos desenhar os dois segmentos de reta (v, A) e (v, B).
 Queremos ligar vários pontos, mas de modo que os segmentos se interceptem apenas nas âncoras.
